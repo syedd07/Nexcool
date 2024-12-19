@@ -66,8 +66,8 @@ const Header = () => {
               <Image
                 src="/images/logo/logo_2.svg"
                 alt="Nexcool Logo"
-                width={219}
-                height={36}
+                width={180}
+                height={30}
               />
             </Link>
 
