@@ -10,22 +10,29 @@ const Hero = () => {
             level="h1"
             className="text-3xl leading-10 text-ui-fg-base font-normal"
           >
-            Ecommerce Starter Template
+            Nexcool 
           </Heading>
           <Heading
             level="h2"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            Powered by Medusa and Next.js
+           A Subsidiary of Al-Nourain
           </Heading>
         </span>
         <a
-          href="https://github.com/medusajs/nextjs-starter-medusa"
+          href="https://nourain.ae"
           target="_blank"
         >
           <Button variant="secondary">
-            View on GitHub
-            <Github />
+            Visit Al-Nourain
+            
+          </Button>
+        </a>
+        <a
+          href="/store"
+        >
+          <Button variant="primary">
+            Visit Store
           </Button>
         </a>
       </div>
